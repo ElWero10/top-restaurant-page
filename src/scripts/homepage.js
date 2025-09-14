@@ -1,4 +1,5 @@
-import heroImage from  "./assets/images/hero-image.jpg";
+import "../styles/homepage.css";
+import heroImage from  "../assets/images/hero-image.jpg";
 
 export default function createHomepage() {
     const content = document.querySelector("#content");
